@@ -1,0 +1,108 @@
+  *{
+     
+    text-decoration: none; 
+    
+ }
+ 
+ .p4,.p3,.p2{
+    width: 460px;
+    float: left;
+    margin: 10px;
+    background-color: darksalmon;
+ }
+}
+img.align-left {
+    float: left;
+    margin-right: 10px;}
+
+    .new{
+        text-decoration: dashed;
+    }
+.old{
+    text-decoration: line-through;
+}
+.tex{
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+font-weight: bolder;
+text-decoration: underline rgba(165, 42, 42, 0.267);
+text-transform: uppercase;
+
+}
+.bio{
+    font-size: 70px;
+    font-style: inherit;
+    color: black;
+background-color: lightgrey;
+text-shadow: 5px 6px 0px darkorchid;
+
+
+     
+}
+
+
+
+
+
+}
+
+.p1>a{
+font-size: 3em;
+color: black;
+background-color: rosybrown;
+}
+.pp{
+    font: xx-large;
+    font-size: 5em;
+    background-color: darkgrey;
+    list-style: 10em;
+    line-height: 3em;
+    text-align: center;
+    text-shadow: 5px 6px 0px darkorchid;
+}
+.aa, .bb, .cc{
+    width: 500px;
+    float: left;
+    margin: 10px;
+    color: wheat;
+    background-color:rgb(78, 31, 31);
+}
+
+.best{
+    background-color: seashell;
+}
+
+#footer{
+    background-color: ;
+}
+.write{
+    font-family: cursive;
+}
+.write::first-letter{
+    color: rgb(14, 3, 39);
+font-size: 40px;}
+
+.p1 a:visited{
+    color: rgb(90, 33, 7);
+    background-color: lightgrey;
+}
+
+
+
+.p1 a:active{
+    color: orangered;
+    background-color: red;
+}
+.p1 a:hover{
+    color: orchid;
+}
+.p1 a:focus{
+    color: royalblue;
+}
+.column1of3, .column2of3, .column3of3{
+    width: 560px;
+    float: left;
+    margin: 10px;
+    background-color: darksalmon;
+}
